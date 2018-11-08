@@ -1,0 +1,12 @@
+{
+    "ID":"5c215bc1-7fce-4282-85cd-9ccc807768dd",
+    "ActionKeyword":"e",
+    "Name":"大小写转换",
+    "Description":"大小写转换",
+    "Author":"YuJiaping",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/Wox-launche/Wox",
+    "IcoPath":"./Images/app2.png",
+    "ExecuteFileName":"main.py"
+}
